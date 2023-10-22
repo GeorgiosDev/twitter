@@ -82,7 +82,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 ## Author
 
 
-![ Deverakis Georgios]([https://github.com/your-username](https://github.com/GeorgiosDev))
+[ Deverakis Georgios]([https://github.com/your-username](https://github.com/GeorgiosDev))
 
 
 
