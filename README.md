@@ -82,9 +82,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 ## Author
 
 
-- ![- Deverakis Georgios]([https://github.com/your-username](https://github.com/GeorgiosDev))
+![ Deverakis Georgios]([https://github.com/your-username](https://github.com/GeorgiosDev))
 
----
-**Note**: Replace `screenshot.png` with your project's actual screenshot, and ensure it is in the project root directory.
 
 
