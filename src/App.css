@@ -1,0 +1,14 @@
+@font-face {
+    font-family: 'Twitterchirp';
+    src: url('./fonts/twitterchirp.ttf') format('truetype');
+  }
+  
+  body {
+    font-family: 'Twitterchirp', sans-serif; 
+  }
+  
+
+.app{
+    max-width: 1360px;
+    margin:0 auto;
+}

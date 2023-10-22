@@ -1,0 +1,58 @@
+.sidebar {
+    flex: 0.2;
+    padding: 1rem 2rem;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    position: relative;
+  }
+  
+  .sidebar__top {
+    display: flex;
+    justify-content: flex-start;
+    align-items: center;
+    width: 100%;
+    padding: 1rem 2rem;
+  }
+  
+  .sidebar__logout-btn {
+    background-color: var(--twitter-primary) !important;
+    color: var(--white) !important;
+    text-transform: capitalize !important;
+    border-radius: 33px !important;
+    padding: 0.3rem 1rem !important;
+    font-size: 0.9rem !important;
+    border: none !important;
+    margin-right: 1rem;
+  }
+  
+  .sidebar__twitter-icon {
+    font-size: 2.5rem !important;
+    color: var(--twitter-primary);
+    margin-bottom: 0.6rem;
+    margin-left: 1rem;
+  }
+  
+  .sidebar__tweet-btn {
+    background-color: var(--twitter-primary) !important;
+    color: var(--white) !important;
+    text-transform: capitalize !important;
+    border-radius: 33px !important;
+    width: 60% !important;
+    padding: 0.5rem 0 !important;
+    font-size: 1.1rem !important;
+    border: none !important;
+  }
+  
+  .sidebar__tweet-btn:hover {
+    background-color: var(--twitter-primary-2) !important;
+  }
+  
+  /* Media query for smaller screens - Hide SideBarOptions */
+  @media (max-width: 768px) {
+    .sidebar {
+      display: none;
+    }
+  }
+  

@@ -1,0 +1,11 @@
+.feed{
+    flex: 0.5;
+    border-left: 2px solid var(--twitter-secondary);
+    border-right: 2px solid var(--twitter-secondary);
+    width: 100%;
+    height: 100vh;
+}
+
+.feed__header h2{
+    font-size: 1.5rem;
+}
