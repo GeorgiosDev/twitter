@@ -1,6 +1,6 @@
 # Twitter Clone with Firebase Authentication
 
-![Twitter Clone Screenshot](/src/assets/images.1.jpg)
+![Twitter Clone Screenshot](src/assets/images.1.jpg)
 
 This is a Twitter clone built using React and Firebase Authentication. Users can sign up, log in, and log out to access a Twitter-like feed. The Twitter menu is not functional, but we use the `react-twitter-embed` widget to imitate the Twitter feed.
 
@@ -24,7 +24,7 @@ Before you begin, ensure you have met the following requirements:
 1. Clone this repository:
 
    ```bash
-   git clone https://github.com/your-username/twitter-clone.git
+   git clone https://github.com/GeorgiosDev/twitter
    ```
 
 2. Navigate to the project directory:
@@ -71,21 +71,17 @@ Before you begin, ensure you have met the following requirements:
 - Firebase Authentication - For user registration and authentication.
 - `react-twitter-embed` - A widget for imitating a Twitter feed.
 
-## Contributing
 
-Contributions are welcome! If you would like to contribute to this project, please follow our [contribution guidelines](CONTRIBUTING.md).
 
 ## License
 
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
-## Acknowledgments
 
-- Special thanks to the developers of `react-twitter-embed` for providing the Twitter-like feed widget.
 
 ## Author
 
-- Your Name
+- Deverakis Georgios
 - GitHub: [Your GitHub Profile](https://github.com/your-username)
 
 ---
